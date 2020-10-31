@@ -1,4 +1,4 @@
-#gd captcha
+# gd captcha
 
 simple gd based captcha.
 DO NOT use it on production,this
